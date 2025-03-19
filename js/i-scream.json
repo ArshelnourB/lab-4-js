@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 240,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "https://arshelnourb.github.io/lab-4-js/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://arshelnourb.github.io/lab-4-js/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+        "image": "https://arshelnourb.github.io/lab-4-js/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Cookies n Cream",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Chocolate Chips", "Vanilla Base"],
+        "image": "https://arshelnourb.github.io/lab-4-js/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Black Raspberry",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Raspberry Syrup", "Raspberries", "Vanilla Base"],
+        "image": "https://arshelnourb.github.io/lab-4-js/images/ice-cream-xtra2.svg"
+    }]
+}
